@@ -7,3 +7,5 @@ public class T_yearplan
 private List<T_audit_solutoin> audit_solutoins = new ArrayList<T_audit_solutoin>();
 @Entity(primaryKey = "ads_id")
 public class T_audit_solutoin
+
+1111
